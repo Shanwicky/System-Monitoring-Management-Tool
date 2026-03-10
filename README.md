@@ -1,6 +1,6 @@
 # IT Support System
 
-A comprehensive CLI-based system management and monitoring tool for IT professionals.
+A CLI-based system management and monitoring tool for IT professionals.
 
 ## Features
 
@@ -73,15 +73,9 @@ A comprehensive CLI-based system management and monitoring tool for IT professio
 
 ## Installation
 
-1. Clone or download the repository
-2. Install dependencies (optional):
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python main.py
-   ```
+1.download the ITSupportSystem.pyz file.
+
+3. Run it:
 
 ## Requirements
 
